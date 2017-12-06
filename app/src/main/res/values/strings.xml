@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Birthday Calendar</string>
+    <string name="enteryourdetails">Enter Your Details</string>
+    <string name="info_title">Confirmation Dialog</string>
+    <string name="ok"> Yeah </string>
+    <string name="cancel"> No </string>
+    <string name="days">  days </string>
+    <string name="in"> in </string>
+    <string name="show_my_birthday">Show my birthday</string>
+    <string name="set_notifications">Set Notifications</string>
+</resources>
